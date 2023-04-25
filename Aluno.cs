@@ -7,21 +7,33 @@ namespace Orientando_Objetos
 {
     public class Aluno
     {
-        public string nome;
-        public string curso;
+        public string nome = "";
+        public string curso = "";
         public int idade;
-        public int RG;
+        public string RG = "";
         public bool bolsista;
         public float mediaFinal = 1;
-        public float valorMensalidade;
-
-        public void VerMedia()
+        public float valorMensalidade = 2500;
+        public void VerMediaFinal()
         {
-            Console.WriteLine($"Sua media e de {mediaFinal}");
+            Console.WriteLine($"Sua media final e {mediaFinal}");
         }
-        public void VerMensaildade()
+        public float VerMensaildade()
         {
-            Console.WriteLine($"Sua mensalidade e de {valorMensalidade}");
+            float valor;
+            if (bolsista && mediaFinal >= 8)
+            {
+                valor = this.valorMensalidade * 0.5f;
+            }
+            else if (bolsista && mediaFinal >= 6)
+            {
+                valor = this.valorMensalidade * 0.3f;
+            }
+            else
+            {
+                valor = this.valorMensalidade;
+            }
+            return valor;
         }
     }
 }
