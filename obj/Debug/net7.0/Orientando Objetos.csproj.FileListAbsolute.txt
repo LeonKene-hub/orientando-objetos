@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Orientando Objetos\bin\Debug\net7.0\Orientando Objetos.exe
+C:\Users\56026708820\Desktop\Orientando Objetos\bin\Debug\net7.0\Orientando Objetos.deps.json
+C:\Users\56026708820\Desktop\Orientando Objetos\bin\Debug\net7.0\Orientando Objetos.runtimeconfig.json
+C:\Users\56026708820\Desktop\Orientando Objetos\bin\Debug\net7.0\Orientando Objetos.dll
+C:\Users\56026708820\Desktop\Orientando Objetos\bin\Debug\net7.0\Orientando Objetos.pdb
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.dll
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\refint\Orientando Objetos.dll
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.pdb
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\Orientando Objetos.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Orientando Objetos\obj\Debug\net7.0\ref\Orientando Objetos.dll
